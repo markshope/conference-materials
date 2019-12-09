@@ -11,3 +11,4 @@ This page contains various materials I've used at conferences.
 
 ### International Conference on Gender and Constitutionalism in Asia (December 9-10, 2019)
 * [Gendered Impact of New Technology: Focus on AI](https://drive.google.com/file/d/1PjXISOFC0vPmMuvLKp4M1F5F9qj7cp7U/view?usp=sharing)
+* [word2vec Example](https://rare-technologies.com/word2vec-tutorial/#app)
