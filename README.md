@@ -4,8 +4,6 @@
 
 ## Conference Materials
 
-This page contains various materials I've used at conferences.
-
 ### 2019 International Academic Conference on Artificial Intelligence and Law (December 26-27, 2019)
 * [Legal Aspects of the Bill of Lading on the Blockchain](https://)
 * [International Trends in AI Ethics: Lawyer Ethics and Ongoing Impacts of AI Technologies in the United States](https://)
