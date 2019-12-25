@@ -5,8 +5,8 @@
 ## Conference Materials
 
 ### 2019 International Academic Conference on Artificial Intelligence and Law (December 26-27, 2019)
-* [Legal Aspects of the Bill of Lading on the Blockchain](https://)
-* [International Trends in AI Ethics: Lawyer Ethics and Ongoing Impacts of AI Technologies in the United States](https://)
+* [Legal Aspects of the Bill of Lading on the Blockchain](https://drive.google.com/file/d/1xfaLjL_qDTpHYQr5qfWHErRjJYnxHZ8E/view?usp=sharing)
+* [International Trends in AI Ethics: Lawyer Ethics and Ongoing Impacts of AI Technologies in the United States](https://drive.google.com/file/d/1ieOgI0lmrcq7BjsGNzaX7SPDWaEEZRhz/view?usp=sharing)
 
 * [word2vec Example](https://rare-technologies.com/word2vec-tutorial/#app)
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
