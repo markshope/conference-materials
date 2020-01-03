@@ -4,6 +4,9 @@
 
 ## Conference Materials
 
+### 2020科技與法律跨領域寒假營隊 (January 13-17, 2020)
+* [Towards a Global Decentralized Healthcare Community: Challenges and Opportunities for Artificial Intelligence and Blockchain Solutions](https://)
+
 ### 2019 International Academic Conference on Artificial Intelligence and Law (December 26-27, 2019)
 * [Legal Aspects of the Bill of Lading on the Blockchain](https://drive.google.com/file/d/1xfaLjL_qDTpHYQr5qfWHErRjJYnxHZ8E/view?usp=sharing)
 * [International Trends in AI Ethics: Lawyer Ethics and Ongoing Impacts of AI Technologies in the United States](https://drive.google.com/file/d/1ieOgI0lmrcq7BjsGNzaX7SPDWaEEZRhz/view?usp=sharing)
