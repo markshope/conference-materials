@@ -5,7 +5,7 @@
 ## 2020
 
 ### 2020科技與法律跨領域寒假營隊 (January 13-17, 2020)
-* [Towards a Global Decentralized Healthcare Community: Challenges and Opportunities for Artificial Intelligence and Blockchain Solutions](https://)
+* [Towards a Global Decentralized Healthcare Community: Challenges and Opportunities for Artificial Intelligence and Blockchain Solutions](https://drive.google.com/file/d/15OFx2m_HKm2W0BumVXjC2ugKzbEtAjU1/view?usp=sharing)
 * [BioWordVec Example](https://github.com/markshope/BioWordVec)
 * [BioSentVec Example](https://github.com/markshope/BioSentVec)
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
