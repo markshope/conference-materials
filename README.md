@@ -2,8 +2,6 @@
 <img align="center" src="assets/qrcode.svg">
 </p>
 
-## Conference Materials
-
 ## 2020
 
 ### 2020科技與法律跨領域寒假營隊 (January 13-17, 2020)
@@ -12,6 +10,7 @@
 * [BioSentVec Example](https://github.com/markshope/BioSentVec)
 * [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
 * [Supply Chain Demo](https://markshope.github.io/bill-of-lading-demo/)
+* [Multisig Supply Chain Demo](https://markshope.github.io/multisig-bill-of-lading/)
 
 ## 2019
 
