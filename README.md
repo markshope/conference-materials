@@ -4,10 +4,16 @@
 
 ## Conference Materials
 
+## 2020
+
 ### 2020科技與法律跨領域寒假營隊 (January 13-17, 2020)
 * [Towards a Global Decentralized Healthcare Community: Challenges and Opportunities for Artificial Intelligence and Blockchain Solutions](https://)
 * [BioWordVec Example](https://github.com/markshope/BioWordVec)
 * [BioSentVec Example](https://github.com/markshope/BioSentVec)
+* [Blockchain Demo](https://markshope.github.io/blockchain-demo/)
+* [Supply Chain Demo](https://markshope.github.io/bill-of-lading-demo/)
+
+## 2019
 
 ### 2019 International Academic Conference on Artificial Intelligence and Law (December 26-27, 2019)
 * [Legal Aspects of the Bill of Lading on the Blockchain](https://drive.google.com/file/d/1xfaLjL_qDTpHYQr5qfWHErRjJYnxHZ8E/view?usp=sharing)
