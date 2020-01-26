@@ -4,6 +4,10 @@
 
 ## 2020
 
+### 外國投資審查與國家安全-敏感技術與國安產業的保護國際研討會International Conference on Foreign Investment Review and National Security– Protecting Sensitive Information and Technology Supremacy (February 24, 2020)
+* [Practice of Foreign Investment Review in the United States](x.html)
+* [Regulating Overseas Chinese and Foreign Investment in Taiwan](x.html)
+
 ### 2020科技與法律跨領域寒假營隊 (January 13-17, 2020)
 * [Towards a Global Decentralized Healthcare Community: Challenges and Opportunities for Artificial Intelligence and Blockchain Solutions](https://drive.google.com/file/d/15OFx2m_HKm2W0BumVXjC2ugKzbEtAjU1/view?usp=sharing)
 * [BioWordVec Example](https://github.com/markshope/BioWordVec)
