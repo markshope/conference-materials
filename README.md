@@ -4,6 +4,9 @@
 
 ## 2020
 
+### Lawyer and Judicial Ethics in the Era of Artificial Intelligence (March 25, 2020)
+* [Lawyer and Judicial Ethics in the Era of Artificial Intelligence](https://drive.google.com/file/d/1PdUgq4Zj47u71L1dNvJ819Z950y6i37i/view?usp=sharing)
+
 ### 外國投資審查與國家安全-敏感技術與國安產業的保護國際研討會International Conference on Foreign Investment Review and National Security – Protecting Sensitive Information and Technology Supremacy (February 24, 2020)
 * [Foreign Investment in the United States: Inbound and Outbound Technology Issues](https://drive.google.com/file/d/1SigtNlhmryKWVsYSm_27_b2LNODnaNrk/view?usp=sharing)
 
